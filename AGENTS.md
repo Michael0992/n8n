@@ -1,6 +1,5 @@
 # AGENTS.md
 
-This file provides guidance on how to work with the n8n repository.
 
 ## Project Overview
 
